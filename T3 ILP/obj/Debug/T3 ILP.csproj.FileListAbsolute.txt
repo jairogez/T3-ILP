@@ -1,0 +1,7 @@
+c:\users\jairo\documents\visual studio 2017\Projects\T3 ILP\T3 ILP\bin\Debug\T3 ILP.exe.config
+c:\users\jairo\documents\visual studio 2017\Projects\T3 ILP\T3 ILP\bin\Debug\T3 ILP.exe
+c:\users\jairo\documents\visual studio 2017\Projects\T3 ILP\T3 ILP\bin\Debug\T3 ILP.pdb
+c:\users\jairo\documents\visual studio 2017\Projects\T3 ILP\T3 ILP\obj\Debug\T3 ILP.csprojResolveAssemblyReference.cache
+c:\users\jairo\documents\visual studio 2017\Projects\T3 ILP\T3 ILP\obj\Debug\T3 ILP.csproj.CoreCompileInputs.cache
+c:\users\jairo\documents\visual studio 2017\Projects\T3 ILP\T3 ILP\obj\Debug\T3 ILP.exe
+c:\users\jairo\documents\visual studio 2017\Projects\T3 ILP\T3 ILP\obj\Debug\T3 ILP.pdb
